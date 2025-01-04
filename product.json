@@ -1,0 +1,107 @@
+[
+    {
+        "img": "https://mobile-review.com/all/wp-content/uploads/2021/12/4-1.jpg",
+        "title": "Asus ProBook X500",
+        "description": "Высокопроизводительный ноутбук с 16 ГБ ОЗУ и SSD объемом 1 ТБ для работы и развлечений.",
+        "price": 1299.99,
+        "category": "Электроника"
+    },
+    {
+        "img": "https://cdn.mediainvest.uz/corecms/post-images/01JA7WC2G40ZVKSTT325GA3F8X.webp",
+        "title": "X200 Edge Smartphone",
+        "description": "Смартфон с безрамочным дисплеем, 5G-связью и мощной камерой.",
+        "price": 799.99,
+        "category": "Электроника"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTojZAMrUexOLwP-Qp3wQqlKTaNXBl2Ltx4yw&s",
+        "title": "Диван Modern Comfort",
+        "description": "Стильный трехместный диван с мягкими подушками для вашего уюта.",
+        "price": 499.99,
+        "category": "Мебель"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMnTN-5ooKmsTBunY4tT91YUDqX3bJkCSRg&s",
+        "title": "Обеденный стол Oak Prime",
+        "description": "Элегантный обеденный стол из премиального дуба с просторной столешницей.",
+        "price": 699.99,
+        "category": "Мебель"
+    },
+    {
+        "img": "https://files.glamourboutique.uz/originals/121%D0%B4%D0%BC164.jpg",
+        "title": "Футболка SoftCotton",
+        "description": "Легкая дышащая футболка из хлопка, доступная в нескольких цветах.",
+        "price": 19.99,
+        "category": "Одежда"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDxQz855cxAzhtXFHAxxqyegllxihzLxdkIw&s",
+        "title": "Зимняя куртка Arctic Pro",
+        "description": "Теплая и водонепроницаемая куртка для экстремальных погодных условий.",
+        "price": 99.99,
+        "category": "Одежда"
+    },
+    {
+        "img": "https://api.cabinet.smart-market.uz/uploads/images/ff80818172e7c3c858ef417a",
+        "title": "Кухонный блендер MixMaster",
+        "description": "Мощный блендер для приготовления смузи, супов и соусов.",
+        "price": 49.99,
+        "category": "Бытовая техника"
+    },
+    {
+        "img": "https://mi-shop.kg/wp-content/uploads/2023/05/4fea2851a9f8d4587d44d523848757a2-600x600.jpg",
+        "title": "Робот-пылесос CleanBot 3000",
+        "description": "Умный пылесос с автоматическим расписанием и управлением через приложение.",
+        "price": 299.99,
+        "category": "Бытовая техника"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn5xkKB1ByJI59VpGEBBkkFRN0_FJ9COkr2g&s",
+        "title": "Детективный роман \"Тайна\"",
+        "description": "Захватывающий детектив, который держит читателя в напряжении до последней страницы.",
+        "price": 14.99,
+        "category": "Книги"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCK74XjtqQMdlcPJ1rzTJhYhUgDcX0vjvGWw&s",
+        "title": "Кулинарная книга ЗОЖ-рецептов",
+        "description": "Коллекция вкусных и полезных рецептов для здорового образа жизни.",
+        "price": 24.99,
+        "category": "Книги"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV4w93GOPuq_uWy5ZvxKXkNqR8uXXYxlFWSw&s",
+        "title": "Игровое кресло UltraGamer",
+        "description": "Эргономичное кресло с поддержкой поясницы и регулируемой высотой для комфортной игры.",
+        "price": 199.99,
+        "category": "Мебель"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRGX6fqGR7fSjJefu32gim_vVHIeN3SzDFvQ&s",
+        "title": "Беспроводные наушники SoundPro",
+        "description": "Шумоподавляющие наушники с превосходным звуком и долгим временем работы.",
+        "price": 149.99,
+        "category": "Электроника"
+    },
+    {
+        "img": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/a509e0629189321d299616c926504c2e.jpg?imageView2/2/w/800/q/70/format/webp",
+        "title": "Коврик для йоги EcoGrip",
+        "description": "Экологичный коврик с отличным сцеплением и мягкой подкладкой для комфорта.",
+        "price": 29.99,
+        "category": "Спорт"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZr8eK79xyvZWcJpBe5oe1B9T-t58k7vRww&s",
+        "title": " бутылка ThermoSip",
+        "description": "Изолированная бутылка, сохраняющая напитки горячими или холодными на несколько часов.",
+        "price": 19.99,
+        "category": "Спорт"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9flDdGK-Vg4Zw_XdCq8BKUNaAXCRohu4kA&s",
+        "title": "Смарт-часы WatchPro 5",
+        "description": "Умные часы с отслеживанием активности, уведомлениями и стильным дизайном.",
+        "price": 249.99,
+        "category": "Электроника"
+    }
+]

@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.products {
+    padding: 2PX;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   
+}
+
+.aziz {
+margin-top: 200px;
+}
+
+header {
+    color: white;
+align-items: center;
+justify-content: center;
+    background-color: rgb(20, 20, 20);
+    position: fixed;
+    display: flex;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    h1 {
+       span {
+        color: black;
+        background-color: chocolate;
+        border-radius: 5px;
+       }
+      
+        right: 20px;
+        text-align: center;
+justify-content: center;
+display: flex;
+    }
+}
+
+.divas {
+    top: 0;
+    font-size: 15px;
+    display: block;
+    background-color: blue;
+    color: aliceblue;
+    position: absolute;
+    right: 50px;
+}
